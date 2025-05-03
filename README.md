@@ -13,8 +13,8 @@ This repository contains examples of using Pydantic for data validation and sett
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pydantic.git
-cd pydantic
+git clone https://github.com/uygaraydin/pydantic-exercises.git
+cd pydantic-exercises
 ```
 
 2. Install dependencies:
